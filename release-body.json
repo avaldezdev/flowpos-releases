@@ -1,0 +1,7 @@
+{
+  "tag_name": "v2.4.1",
+  "name": "FlowPOS v2.4.1",
+  "draft": false,
+  "prerelease": false,
+  "body": "## Mejoras de Rendimiento\n\n- **Inicio más rápido:** la configuración y datos de licencia se cargan una sola vez al arrancar, eliminando cientos de llamadas redundantes durante la sesión\n- Navegación más fluida al abrir ventas, pedidos y compras\n\n## Correcciones\n\n- Corregido mensaje de plan requerido para timbrados fiscales (mostraba Plan Inicio en lugar de Plan Profesional)"
+}
